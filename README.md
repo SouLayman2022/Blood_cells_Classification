@@ -17,5 +17,5 @@
 - Données est extrait du site officiel des NIH, lien vers le dataset : <a href="https://ceb.nlm.nih.gov/repositories/malaria-datasets/">NIH link </a>
 - Informations sur l'ensemble de données et les fichiers :
 - My-links :
-    - Git_hub :
+    - Git_hub : <a href="https://github.com/SouLayman2022/Blood_cells_Classification.git">Repo GitHub</a>
     - linked_in : <a href="https://www.linkedin.com/in/soulayman-el-guasmi-13b890240/">Linkedin page</a>
