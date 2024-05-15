@@ -14,8 +14,11 @@
 
 ## <span style="color: #AE2F88; font-size:60px">Références :</span>
 
-- Données est extrait du site officiel des NIH, lien vers le dataset : <a href="https://ceb.nlm.nih.gov/repositories/malaria-datasets/">NIH link </a>
 - Informations sur l'ensemble de données et les fichiers :
+    - Données est extrait du site officiel des NIH, lien vers le dataset : <a href="https://ceb.nlm.nih.gov/repositories/malaria-datasets/">NIH link </a>
+    - Lien vers le dataset des images : <a href="https://drive.google.com/drive/folders/1BnA8bTFuCeAmhU9rvAyHmzVUMTxFGGAU?usp=sharing">BCI</a>
+    - Lien vers poids des modèles : <a href="https://drive.google.com/file/d/1miYwxaa_OUW39GTYA7b5iw2DnJfJqfAf/view?usp=drive_link">Weights.h5</a>
 - My-links :
     - Git_hub : <a href="https://github.com/SouLayman2022/Blood_cells_Classification.git">Repo GitHub</a>
     - linked_in : <a href="https://www.linkedin.com/in/soulayman-el-guasmi-13b890240/">Linkedin page</a>
+    - Get to know me ! <a href="https://soulayman2022.github.io/Data_Scientist_Portfolio/">My Portfolio page</a>
