@@ -1,8 +1,6 @@
-<div style="text-align:center; color:#AE2F88; font-size:90px">
 # <span style="color: #AE2F88; font-size:60px">Détection Du Paludisme</span>
 </br>
 <img src="./pic_of_blood_cells.png" style="width:900px; height:auto">
-</div>
 
 ## <span style="color: #AE2F88; font-size:60px">Introduction :</span>
 
